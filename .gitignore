@@ -1,3 +1,4 @@
+.idea/
 # LaTeX / latexmk build artifacts
 *.aux
 *.fdb_latexmk
